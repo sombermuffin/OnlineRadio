@@ -1,11 +1,11 @@
 {
 	"radio":
 	[
-      {"radio_id":"1", "name":"Techno", "url":"http://listen.technobase.fm/tunein-mp3-pls" , "img_url":"http://www.frosat.net/images/logotv/original/Logo_Europa_Plus_RU.gif"},
-      {"radio_id":"2", "name":"hitfm", "url":"http://176.31.106.191:9650" , "img_url":"http://www.hitfm.ua/static/img/hit_fm_logo.png"},
-      {"radio_id":"3", "name":"Dance", "url":"http://listen.radionomy.com/a33playdance.m3u", "img_url":"http://new.kissfm.ua/static/img/kiss-logo.jpg"},
-      {"radio_id":"4", "name":"rusradio", "url":"http://50.7.70.58:8785", "img_url":"http://proxy11.media.online.ua/radio/r2-d2/004/073/151/4b67d70f713de.gif"},
-      {"radio_id":"5", "name":"j-pop k-pop", "url":"http://asia.freestylefm.org/listen/freestyleasia.m3u", "img_url":"http://musicradio.ua/music/Musicradio_logo.png"},
-      {"radio_id":"6", "name":"Disco RnB/Soul", "url":"http://listen.radionomy.com/a-disco-fm-web.m3u", "img_url":"http://www.radioroks.com.ua/images/Roks_logo_with_slogan.png"}
+      {"radio_id":"1", "name":"Techno", "url":"http://listen.technobase.fm/tunein-mp3-pls" , "img_url":"http://b.image.web.tb-group.fm/www/design/global/switchbuttons/switch_tb_active.png"},
+      {"radio_id":"2", "name":"Hits", "url":"http://176.31.106.191:9650" , "img_url":"https://lh6.googleusercontent.com/-eWqVO9WkjRw/TXMI9r6MuiI/AAAAAAAABGE/qg4_NFvcL5g/s320/800px-MTV_Hits-older.svg.png"},
+      {"radio_id":"3", "name":"Dance", "url":"http://listen.radionomy.com/a33playdance.m3u", "img_url":"http://charlotteballroomacademy.com/wp-content/uploads/2012/03/dance-banner1.jpg"},
+      {"radio_id":"4", "name":"Metal", "url":"http://50.7.70.58:8785", "img_url":"http://2a56b976980e0793ddee-5cc5435fcbc367bb03f9a415e7067a97.r91.cf2.rackcdn.com/wp-content/uploads/2012/12/Metal-music-19645981-1024-768.jpg"},
+      {"radio_id":"5", "name":"j-pop k-pop", "url":"http://asia.freestylefm.org/listen/freestyleasia.m3u", "img_url":"http://cdn2.sbnation.com/entry_photo_images/7056323/kpop_lead_large_verge_super_wide.jpg"},
+      {"radio_id":"6", "name":"Disco RnB/Soul", "url":"http://listen.radionomy.com/a-disco-fm-web.m3u", "img_url":"http://americancountrymusicchart.com/wp-content/uploads/2011/02/disco-lights.jpg"}
 	]
 }
